@@ -2,6 +2,6 @@
 
 export(retrieve_m50)
 import(dplyr)
-import(lubridate)
 import(purrr)
 import(readr)
+importFrom(lubridate,ymd)
